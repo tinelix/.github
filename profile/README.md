@@ -1,6 +1,5 @@
-# Tinelix
-
-Owner: Dmitry Tretyakov
-
-<b>Hello,</b> my name is Dmitry - 18 y. o. typic developer, video maker for YouTube and PeerTube and etc.
-<p><a href="https://tinelix.github.io">Website</a> | <a href="https://tinelix.github.io/pages/eng/tinelix/socmedia.html">Social media</a> | <a href="https://tinelix.github.io/pages/eng/tinelix/contacts.html">Contacts</a>
+# Tinelix Dev
+###### Owner: Dmitry Tretyakov
+Hello, my name is Dmitry - 18 y. o. typic developer, video maker for YouTube and PeerTube and etc.
+### Links
+[Website](https://tinelix.github.io) | [My projects](https://github.com/tinelix/.github/blob/main/my_projects.md) | [Social media](https://tinelix.github.io/pages/eng/tinelix/socmedia.html) | [Contacts](https://tinelix.github.io/pages/eng/tinelix/contacts.html)
