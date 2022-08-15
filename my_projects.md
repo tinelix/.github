@@ -3,7 +3,7 @@
   <sup>for Discord (Python 3)</sup>
   * **Tinelix IRC Client** (August 2021 - nowadays)\
   <sup>for Python 3 + PyQt5, Windows (Win32 and Win32 subset), Android</sup>
-  * **Tinelix Timers** (April 2022 - now)\
+  * **Tinelix Timers** (April 2022 - nowadays)\
   <sup>for Android (Modern & Legacy editions)</sup>
   * **Calmira Russian version** (May 2021)\
   <sup>for Windows (Delphi 1)</sup>
