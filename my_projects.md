@@ -17,3 +17,5 @@
   <sup>for Windows (HiAsm, Delphi 10)</sup>
   * **Tinelix Highflash** (December 2018 - December 2020)\
   <sup>for Discord, VK, Telegram (JavaScript)</sup>
+  * **Snowdroid** (January 2025 - nowadays)
+<sup>AOSP firmware with big plans for the future</sup>
