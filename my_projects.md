@@ -19,7 +19,7 @@
   <sup>for Android (Modern & Legacy editions)</sup>
   * **[Tinelix IRC Client](https://github.com/tinelix/irc-client)** (August 2021 - April 2022)\
   <sup>for Python 3 + PyQt5, Windows (Win32 and Win32s), Android</sup>
-    * **[Calmira Russian version](https://github.com/tinelix/calmira-ru)** (May 2021)\
+  * **[Calmira Russian version](https://github.com/tinelix/calmira-ru)** (May 2021)\
   <sup>for Windows 3.x (Delphi)</sup>
   * ~~**DMIT Computers HTML Editor** (2019 - 2020)~~ _no longer exists_\
   <sup>for Windows (Delphi 10)</sup>
