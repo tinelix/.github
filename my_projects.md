@@ -9,9 +9,9 @@
   <sup>for Discord, VK, Telegram (Node.js)</sup>
 
 ### Software
-  * **[OpenDSS](https://github.com/tinelix/OpenDSS)** (May - November 2025) \
+  * **[OpenDSS](https://github.com/tinelix/OpenDSS)** (April 2026 - nowadays) \
   <sup>Console audio player for Windows and Linux written in C/C++, inspired by [original Digital Sound System](http://web.archive.org/web/20050412060410fw_/http://lrsp.narod.ru/English/dss.html)</sup>
-  * **[RetroWebServer](https://github.com/tinelix/RetroWebServer)** (April - November 2026) \
+  * **[RetroWebServer](https://github.com/tinelix/RetroWebServer)** (May - November 2025) \
   <sup>Self-written compatible HTTP/1.x server with Windows 3.x/9x and Windows NT 3.1+</sup>
   * **[Snowdroid](https://snowdroid.tinelix.ru)** (January 2025 - nowadays) \
   <sup>A new-generation operating system that expands the functionality of standard Android</sup>
